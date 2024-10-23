@@ -14,7 +14,7 @@ class AppDrawer extends StatelessWidget {
               color: Colors.blue,
             ),
             child: Text(
-              'Warnet Management System',
+              'Warnet Silver Link',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 24,
